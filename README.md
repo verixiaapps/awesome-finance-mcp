@@ -195,7 +195,7 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 | [Bitget Agent MCP](https://github.com/Bitget-AI/agent-mcp) | Official Bitget spot & futures trading, 89 operations | Requires API key | ![stars](https://img.shields.io/github/stars/Bitget-AI/agent-mcp?style=flat) | *[@lukeGao0](https://github.com/lukeGao0)* |
 | [Aperture Wallet Knowledge](https://github.com/devdasx/aperture) | Read-only Aperture wallet knowledge for AI agents | Free | ![stars](https://img.shields.io/github/stars/devdasx/aperture?style=flat) | *[@devdasx](https://github.com/devdasx)* |
 | [x402 Preflight](https://github.com/chico10117/basepay-readiness-service) | Preflight checks for x402 endpoints before payment | Freemium | ![stars](https://img.shields.io/github/stars/chico10117/basepay-readiness-service?style=flat) | *[@chico10117](https://github.com/chico10117)* |
-- [HostDeFi](https://hostdefi.com/api/v1/mcp) - Hosted Streamable HTTP MCP server: free `scan_token` tool returns A+–F token-safety grades across Solana and 8 EVM chains; paid tools settle per call in USDC via x402.
+- [HostDeFi](https://hostdefi.com/api/v1/mcp) - Hosted Streamable HTTP MCP server: free `scan_token` tool returns A+–F token-safety grades across Solana and 7 EVM chains; paid tools settle per call in USDC via x402.
 
 ### Financial Intelligence
 
